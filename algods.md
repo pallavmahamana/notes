@@ -1,7 +1,7 @@
-#Algorithms
-DFS
-BFS
-TopologicalSort
+# Algorithms
+- DFS
+- BFS
+- Topological Sort
 
 
-#Data Structures
+# Data Structures
