@@ -1,5 +1,5 @@
 # Algorithms
-- DFS
+- [DFS](dfs.md)
 - BFS
 - Topological Sort
 
